@@ -1,0 +1,13 @@
+.action {
+	TEXT-ALIGN: center; MARGIN: 7px 8px 0px 0px; WIDTH: 18px; FLOAT: left
+}
+HTML .home .action {
+	MARGIN-TOP: 10px
+}
+.action A {
+	 BACKGROUND-COLOR: #c30; MARGIN: 5px auto; WIDTH: 70px; DISPLAY: block; FONT: bold 0.75em/21px "Trebuchet MS", Arial, Helvetica, sans-serif; HEIGHT: 20px; COLOR: #f2f2f2;  TEXT-DECORATION: none; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px
+}
+.action A:hover {
+	BACKGROUND-COLOR: #0000A0; TEXT-DECORATION: underline
+}
+

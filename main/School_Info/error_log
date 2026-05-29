@@ -1,0 +1,83 @@
+[01-Nov-2018 18:14:42 UTC] PHP Notice:  Undefined index: extension in /home/sauravsh/aecsnarora.ac.in/main/tc/tc.php on line 102
+[01-Nov-2018 18:15:24 UTC] PHP Notice:  Undefined index: extension in /home/sauravsh/aecsnarora.ac.in/main/tc/tc.php on line 102
+[01-Nov-2018 18:15:57 UTC] PHP Notice:  Undefined index: extension in /home/sauravsh/aecsnarora.ac.in/main/tc/tc.php on line 102
+[01-Nov-2018 18:16:33 UTC] PHP Notice:  Undefined index: extension in /home/sauravsh/aecsnarora.ac.in/main/tc/tc.php on line 102
+[01-Nov-2018 18:16:51 UTC] PHP Notice:  Undefined index: extension in /home/sauravsh/aecsnarora.ac.in/main/tc/tc.php on line 102
+[01-Nov-2018 18:17:03 UTC] PHP Notice:  Undefined index: extension in /home/sauravsh/aecsnarora.ac.in/main/tc/tc.php on line 102
+[18-Jun-2021 12:17:04 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:17:04 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:17:04 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 165
+[18-Jun-2021 12:17:04 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 167
+[18-Jun-2021 12:17:04 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:17:04 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:17:04 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 193
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 165
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 167
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 193
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 165
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 167
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:32:49 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 193
+[18-Jun-2021 12:35:32 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:35:32 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 163
+[18-Jun-2021 12:35:32 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 165
+[18-Jun-2021 12:35:32 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 167
+[18-Jun-2021 12:35:32 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:35:32 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 185
+[18-Jun-2021 12:35:32 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 193
+[18-Jun-2021 12:38:37 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:38:37 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:38:37 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 83
+[18-Jun-2021 12:38:37 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 84
+[18-Jun-2021 12:38:37 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:38:37 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:38:37 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 97
+[18-Jun-2021 12:42:03 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:42:03 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:42:03 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 83
+[18-Jun-2021 12:42:03 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 84
+[18-Jun-2021 12:42:03 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:42:03 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:42:03 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 97
+[18-Jun-2021 12:43:00 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:43:00 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:43:00 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 83
+[18-Jun-2021 12:43:00 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 84
+[18-Jun-2021 12:43:00 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:43:00 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:43:00 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 97
+[18-Jun-2021 12:44:12 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:44:12 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:44:12 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 83
+[18-Jun-2021 12:44:12 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 84
+[18-Jun-2021 12:44:12 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:44:12 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:44:12 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 97
+[18-Jun-2021 12:50:30 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:50:30 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:50:30 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 83
+[18-Jun-2021 12:50:30 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 84
+[18-Jun-2021 12:50:30 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:50:30 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:50:30 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 97
+[18-Jun-2021 12:50:38 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:50:38 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:50:38 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 83
+[18-Jun-2021 12:50:38 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 84
+[18-Jun-2021 12:50:38 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:50:38 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:50:38 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 97
+[18-Jun-2021 12:51:01 Asia/Kolkata] PHP Warning:  scandir(store/): failed to open dir: No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:51:01 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 82
+[18-Jun-2021 12:51:01 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 83
+[18-Jun-2021 12:51:01 Asia/Kolkata] PHP Warning:  array_shift() expects parameter 1 to be array, bool given in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 84
+[18-Jun-2021 12:51:01 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:51:01 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 93
+[18-Jun-2021 12:51:01 Asia/Kolkata] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/aecsnaroraac/public_html/main/School_Info/School_Info.php on line 97

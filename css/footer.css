@@ -1,0 +1,62 @@
+/* ------------------------------- ------------------------------- 
+    footer 
+  ------------------------------- ------------------------------- */
+
+footer{
+    background-color :  #000 !important;
+    color : #aaa;
+    padding : 70px;
+    font-family: lato;
+
+    /* grid system */
+    display : grid;
+    grid-template-columns: repeat(auto-fit, minmax(8rem,1fr));
+    margin : 0 auto;
+}
+
+footer.footer-sub-vertical{
+}
+footer h2,footer a{
+    color : #ddd;
+    text-shadow: 2 2 5 #333;
+}
+
+.section-footer{
+    /* background-color:rgba(119, 119, 119,.8); */
+    width:100%;
+    height:auto;
+    text-align: center;
+    font-size:1.2em;
+    margin:0 auto;
+}
+.footer-details h2{
+    font-size:150%;
+    font-weight: 300;
+}
+.contact-details{
+    color:#fff;
+    font-size:90%;
+    font-weight: 200;
+    font-family:'raleway','lato',sans-serif;
+    text-align: left;
+}
+
+.contact-details li{
+    margin:5px 0px;
+}
+.contact-details li{
+    margin:5px 0px;
+}
+.contact-details li i{
+    margin-right:8px;
+    color:#e74c3c;
+}
+.big{
+    font-size:200%;
+    vertical-align: middle;
+}
+.footer-heading i{
+    font-size:140%;
+    margin:1% 1%;
+}
+

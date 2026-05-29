@@ -1,0 +1,127 @@
+/* Screens bigger than 1200px  */
+@media only screen and (max-width:1200px){
+   
+}
+    
+/* Small tablet to big tablet */
+@media only screen and (max-width:1023px){
+}
+
+/* Phones to small tablets */
+@media only screen and (max-width:767px){
+    .map{
+        display:block;
+        width:300px;
+    }
+    .form-box{
+        display: relative;
+        width:300px;
+        padding:1% 1%;
+
+    }
+    .mobile-nav-icon{
+        display: inline-block;
+    }
+     .secondary-nav{
+        display:none;
+    }
+    .min-nav{
+        display:block;
+    }
+#navigation-links{
+        float:left;
+    }
+    .link-names{
+        float:left;
+    }
+    #forms-navigation{
+        float:right;
+        text-align: left;
+    }
+    #forms-docs-links{
+        text-align: left;
+        float:right;
+    }
+    #navigation-links h2{
+        font-size:160%;
+        line-height: 30px;
+    }
+     #navigation-links li a{
+        font-size:140%;
+    }
+    #forms-docs-links ul {
+    padding:0% 2%;;
+    }
+    #forms-docs-links ul li{
+        margin:1% 0%;
+    }
+    #menu li {
+            padding:1% 2%;
+    }
+    #menu li i {
+        font-size:150%;
+    }
+}
+
+
+/* Small phone from 0 to 480 px  */
+@media only screen and (max-width:480px){
+    .secondary-nav{
+        display:none;
+    }
+    .min-nav{
+        display:block;
+    }
+    .testimonials h2{
+        font-size:220%; 
+        margin-bottom:20px;
+    }
+    .testimonials-header{
+        padding-left:20px;
+        padding-right:20px;
+        box-sizing: border-box;
+    }
+     .testimonials-header p{
+         font-size:100%;
+    }
+    .testimonials-carousel li blockquote{
+        font-size:75%;
+    }
+    .hero-text-box h1{
+        font-size:250%;
+    }
+    #navigation-links{
+        float:left;
+    }
+    .link-names{
+        float:left;
+    }
+    #forms-navigation{
+        float:right;
+        text-align: left;
+    }
+    #forms-docs-links{
+        float:right;
+        text-align: left;
+    }
+    #navigation-links h2{
+        font-size:160%;
+        line-height: 30px;
+    }
+     #navigation-links li a{
+        font-size:140%;
+    }
+    #forms-docs-links ul {
+    padding:0% 2%;;
+    }
+    #forms-docs-links ul li{
+        margin:1% 0%;
+    }
+    #menu li {
+            padding:1% 2%;
+    }
+    #menu li i {
+        font-size:150%;
+    }
+    
+}
