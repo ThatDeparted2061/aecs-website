@@ -44,6 +44,7 @@ This repository contains the complete source code for the official AECS Narora w
 | Vice Principal | Shri Deshraj Kishana |
 | Head Master | Shri Rajendran P R |
 | Website Admin | Shri Ashok Kumar Rao (PGT Computer Science) |
+| Website Admin | Harsh Rao | 
 
 ### AEES Governing Body
 
